@@ -16,4 +16,4 @@ movies=[
         ["Graham Chapman",
              ["Michael Palin", "John cleese", "Terry Gilliam", "Eric Idle", "Terry Jones"]]]
 
-#print_lol(movies, True, 1)
+print_lol(movies, True, 1)
