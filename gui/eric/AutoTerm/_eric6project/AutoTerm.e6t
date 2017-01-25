@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Tasks SYSTEM "Tasks-6.0.dtd">
+<!-- eric6 tasks file for project AutoTerm -->
+<!-- Saved: 2017-01-17, 13:45:43 -->
+<Tasks version="6.0">
+  <ProjectScanFilter></ProjectScanFilter>
+  <Task priority="1" completed="False" type="1" uid="{4b5e5819-98a8-4493-8023-c97aacb17d9d}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2017-01-17, 10:03:25</Created>
+    <Resource>
+      <Filename>autoterm.py</Filename>
+      <Linenumber>29</Linenumber>
+    </Resource>
+  </Task>
+</Tasks>
